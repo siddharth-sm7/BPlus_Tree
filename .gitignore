@@ -1,0 +1,14 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.out
+
+# Generated data / artifacts
+*.csv
+*.dat
+*.zip
+
+# Temporary files
+*.tmp
+*.log
